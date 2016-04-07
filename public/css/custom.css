@@ -1,0 +1,26 @@
+@font-face { font-family: 'Reynold'; src: url('../fonts/ReynoldArtDeco.ttf'); }
+@font-face { font-family: 'Cormorant-Semi'; src: url('../fonts/Cormorant-Semibold.otf'); }
+@font-face { font-family: 'Cormorant-Bold'; src: url('../fonts/Cormorant-Bold.otf'); }
+
+h1 {
+    font-family: 'Reynold';
+    text-align: center;
+    font-size: 52px;
+    margin-bottom: 25px;
+    margin-top: 45px;
+}
+
+body {
+    font-family: 'Cormorant-Semi';
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+main {
+    margin-top: 130px;
+}
